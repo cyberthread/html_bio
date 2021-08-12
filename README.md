@@ -7,7 +7,7 @@ The purpose of this assignment is to get used to the workflow between GitHub, Gi
 ## Setup GitHub Desktop
 To use GitHub we'll need to do a little one-time configuration to make sure your account is talking to your computer. Here's what you need to do:
 1. Launch GitHub Desktop
-1. Connect your GitHub account and login. The software should automatically prompt you to do this the first time you login, but if not  you can access this within the preferences window (on a Mac under the GitHub Desktop menu). You’ll see a “Configure Git” step which is how your contributions will be attributed. Be sure to use your first name and last initial so that I can see your contributions easily. It will also request your email address—be sure to use the one associated with your GitHub account.
+1. Connect your GitHub account and login. The software should automatically prompt you to do this the first time you login, but if not  you can access this within the preferences window (on a Mac under the GitHub Desktop menu). You’ll see a “Configure Git” step which is how your contributions will be attributed. Be sure to use your first name and last name so that I can see your contributions easily. It will also request your email address—be sure to use the one associated with your GitHub account.
 1. Connect to Visual Studio Code editor. Go to Preferences > Integrations and choose Visual Studio Code from the External Editor menu (it will only be available if you’ve installed it already. If you use a different code editor it will be visible here as an option instead). I recommend checking all of the boxes in this particular window.
 
 ## Your Actual Assignment
