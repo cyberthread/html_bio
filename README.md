@@ -45,11 +45,11 @@ _Remember that a commit is like getting a snapshot of the repository at a partic
 1. Set up the directory for the live site
     1. Navigate to your repository folder on your computer. The default loaction on a Mac is in a GitHub folder in the documents folder.
     1. In that folder create a new folder called "docs". Note that case matters. Use all lowercase letters.
-    1. Make a copy of your index.html file and add it to the docs folder. Note that you will now have two copies of the same file. One that is in the main directory of your repository and one that is in the docs folder. The docs folder is really hosting space. Think of it as entirely separate from your regular repository. You should only put final copies of work in this folder.
+    1. **Make a copy** of your index.html file and add it to the docs folder (don't move the original but make sure it has **the exact same name as the original** once in the docs folder). Note that you will now have two copies of the same file. One that is in the main directory of your repository and one that is in the docs folder. The docs folder is really hosting space. Think of it as entirely separate from your regular repository. Treat the docs folder like a printer—you should only put final copies of work in this folder.
     1. Navigate back to GitHub Desktop.
     1. Click the changes tab and title the new commit "make site live"
     1. Click the commit button.
     1. Push repository to origin like you did above.
     1. Open your gitHub repository in the browser. You should now see a docs folder under the code tab.
 1. Make docs folder hosting space
-    1. Navigate to "settings" and scroll down to "GitHub Pages". This is where we turn that docs folder into the hosting space we mentioned above. Under Branch choose "main" and under select folder choose "/docs" then click save. You will then see a message in that section appear that says "your site is published at...". The URL you see there is your live website. Click that link to see your site in the browser. This is the URL you will need to submit in Blackboard.
+    1. Navigate to "settings" and then click on "Pages" in the contextual menu. This is where we turn that docs folder into the hosting space we mentioned above. Under Branch choose "main" and under select folder choose "/docs" then click save. You will then see a message in that section appear that says "your site is published at...". The URL you see there is your live website. Click that link to see your site in the browser. This is the URL you will need to submit in Blackboard. Note that it does occassionally take a little while for the live site to appear.
